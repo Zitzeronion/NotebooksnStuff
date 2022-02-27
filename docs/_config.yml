@@ -26,7 +26,7 @@ domain: zitzeronion.github.io       # if you want to force HTTPS, specify the do
 url: https://zitzeronion.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /NotebooksnStuff/  
 twitter_username: Zitzero
-github_username:  Zitzeronion
+github_username: Zitzeronion
 
 # Build settings
 theme: minima
