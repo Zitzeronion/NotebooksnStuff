@@ -7,6 +7,8 @@ categories: jekyll update
 
 In this notebook we were testing the capabilities of Swalbe.jl when it comes to the coalescence of droplets.
 
+Check out the [notebook](/NotebooksnStuff/notebooks/Droplet_coalescence_1.html) for the next part of the analysis.
+
 
 {% highlight ruby %}
 def print_hi(name)
